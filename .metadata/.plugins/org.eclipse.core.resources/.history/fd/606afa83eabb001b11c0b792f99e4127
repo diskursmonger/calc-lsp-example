@@ -1,0 +1,9 @@
+additional.bundles = org.eclipse.xtext.common.types,\
+                     org.eclipse.xtext.common.types.edit,\
+                     org.eclipse.xtext.common.types.edit.source,\
+                     org.eclipse.xtext.common.types.shared,\
+                     org.eclipse.xtext.common.types.shared.jdt38.source,\
+                     org.eclipse.xtext.common.types.shared.source,\
+                     org.eclipse.xtext.common.types.source,\
+                     org.eclipse.xtext.common.types.ui,\
+                     org.eclipse.xtext.common.types.ui.source

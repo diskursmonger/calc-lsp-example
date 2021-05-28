@@ -1,0 +1,14 @@
+dependencies {
+	implementation project(':org.xtext.calc')
+	implementation "org.eclipse.xtext:org.eclipse.xtext.ide:${xtextVersion}"
+	implementation "org.eclipse.xtext:org.eclipse.xtext.xbase.ide:${xtextVersion}"
+}
+
+shadowJar {
+    baseName = 'calculator-language-server'
+    classifier = null
+    version = null
+    manifest {
+        attributes 'Main-Class': 'org.eclipse.xtext.ide.server.ServerLauncher'
+    }
+}

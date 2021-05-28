@@ -1,0 +1,12 @@
+#
+#Wed May 26 21:35:22 NOVT 2021
+derivedResources=.gradle\:build\:org.xtext.calc/build\:org.xtext.calc.ide/build
+linkedResources=
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+managedNatures=
+buildDir=build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+buildScriptPath=build.gradle
+subprojectPaths=org.xtext.calc\:org.xtext.calc.ide
+hasAutoBuildTasks=false
+gradleVersion=6.4.1

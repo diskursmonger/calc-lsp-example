@@ -1,0 +1,103 @@
+org/xtext/calc/webCalc/impl/FeatureCallImpl.java
+ org.xtext.calc.webCalc.impl.FeatureCallImpl
+org/xtext/calc/webCalc/impl/DeclaredParameterImpl.java
+ org.xtext.calc.webCalc.impl.DeclaredParameterImpl
+org/xtext/calc/webCalc/Calculation.java
+ org.xtext.calc.webCalc.Calculation
+org/xtext/calc/validation/AbstractCalculatorValidator.java
+ org.xtext.calc.validation.AbstractCalculatorValidator
+org/xtext/calc/validation/CalculatorValidator.java
+ org.xtext.calc.validation.CalculatorValidator
+org/xtext/calc/webCalc/impl/NumberLiteralImpl.java
+ org.xtext.calc.webCalc.impl.NumberLiteralImpl
+org/xtext/calc/webCalc/Evaluation.java
+ org.xtext.calc.webCalc.Evaluation
+org/xtext/calc/parser/antlr/internal/InternalCalculatorLexer.java
+ org.xtext.calc.parser.antlr.internal.InternalCalculatorLexer
+ org.xtext.calc.parser.antlr.internal.InternalCalculatorLexer$DFA12
+org/xtext/calc/webCalc/Statement.java
+ org.xtext.calc.webCalc.Statement
+org/xtext/calc/webCalc/AbstractDefinition.java
+ org.xtext.calc.webCalc.AbstractDefinition
+org/xtext/calc/webCalc/impl/AbstractDefinitionImpl.java
+ org.xtext.calc.webCalc.impl.AbstractDefinitionImpl
+org/xtext/calc/scoping/CalculatorScopeProvider.java
+ org.xtext.calc.scoping.CalculatorScopeProvider
+org/xtext/calc/webCalc/DeclaredParameter.java
+ org.xtext.calc.webCalc.DeclaredParameter
+org/xtext/calc/webCalc/BinaryExpression.java
+ org.xtext.calc.webCalc.BinaryExpression
+org/xtext/calc/webCalc/NumberLiteral.java
+ org.xtext.calc.webCalc.NumberLiteral
+org/xtext/calc/parser/antlr/CalculatorAntlrTokenFileProvider.java
+ org.xtext.calc.parser.antlr.CalculatorAntlrTokenFileProvider
+org/xtext/calc/CalculatorRuntimeModule.java
+ org.xtext.calc.CalculatorRuntimeModule
+org/xtext/calc/webCalc/WebCalcPackage.java
+ org.xtext.calc.webCalc.WebCalcPackage
+ org.xtext.calc.webCalc.WebCalcPackage$Literals
+org/xtext/calc/webCalc/Expression.java
+ org.xtext.calc.webCalc.Expression
+org/xtext/calc/webCalc/impl/EvaluationImpl.java
+ org.xtext.calc.webCalc.impl.EvaluationImpl
+org/xtext/calc/serializer/CalculatorSemanticSequencer.java
+ org.xtext.calc.serializer.CalculatorSemanticSequencer
+org/xtext/calc/parser/antlr/CalculatorParser.java
+ org.xtext.calc.parser.antlr.CalculatorParser
+org/xtext/calc/webCalc/util/WebCalcAdapterFactory.java
+ org.xtext.calc.webCalc.util.WebCalcAdapterFactory
+ org.xtext.calc.webCalc.util.WebCalcAdapterFactory$1
+org/xtext/calc/webCalc/impl/UnaryExpressionImpl.java
+ org.xtext.calc.webCalc.impl.UnaryExpressionImpl
+org/xtext/calc/webCalc/impl/ExpressionImpl.java
+ org.xtext.calc.webCalc.impl.ExpressionImpl
+org/xtext/calc/webCalc/FeatureCall.java
+ org.xtext.calc.webCalc.FeatureCall
+org/xtext/calc/services/CalculatorGrammarAccess.java
+ org.xtext.calc.services.CalculatorGrammarAccess
+ org.xtext.calc.services.CalculatorGrammarAccess$AbstractDefinitionElements
+ org.xtext.calc.services.CalculatorGrammarAccess$AdditionElements
+ org.xtext.calc.services.CalculatorGrammarAccess$CalculationElements
+ org.xtext.calc.services.CalculatorGrammarAccess$DeclaredParameterElements
+ org.xtext.calc.services.CalculatorGrammarAccess$DefinitionElements
+ org.xtext.calc.services.CalculatorGrammarAccess$EvaluationElements
+ org.xtext.calc.services.CalculatorGrammarAccess$ExpressionElements
+ org.xtext.calc.services.CalculatorGrammarAccess$FeatureCallElements
+ org.xtext.calc.services.CalculatorGrammarAccess$MultiplicationElements
+ org.xtext.calc.services.CalculatorGrammarAccess$NumberElements
+ org.xtext.calc.services.CalculatorGrammarAccess$NumberLiteralElements
+ org.xtext.calc.services.CalculatorGrammarAccess$PrimaryExpressionElements
+ org.xtext.calc.services.CalculatorGrammarAccess$StatementElements
+ org.xtext.calc.services.CalculatorGrammarAccess$UnaryExpressionElements
+org/xtext/calc/webCalc/impl/WebCalcFactoryImpl.java
+ org.xtext.calc.webCalc.impl.WebCalcFactoryImpl
+org/xtext/calc/webCalc/impl/BinaryExpressionImpl.java
+ org.xtext.calc.webCalc.impl.BinaryExpressionImpl
+org/xtext/calc/webCalc/UnaryExpression.java
+ org.xtext.calc.webCalc.UnaryExpression
+org/xtext/calc/AbstractCalculatorRuntimeModule.java
+ org.xtext.calc.AbstractCalculatorRuntimeModule
+org/xtext/calc/CalculatorStandaloneSetup.java
+ org.xtext.calc.CalculatorStandaloneSetup
+org/xtext/calc/webCalc/WebCalcFactory.java
+ org.xtext.calc.webCalc.WebCalcFactory
+org/xtext/calc/webCalc/impl/DefinitionImpl.java
+ org.xtext.calc.webCalc.impl.DefinitionImpl
+org/xtext/calc/webCalc/Definition.java
+ org.xtext.calc.webCalc.Definition
+org/xtext/calc/webCalc/impl/WebCalcPackageImpl.java
+ org.xtext.calc.webCalc.impl.WebCalcPackageImpl
+org/xtext/calc/parser/antlr/internal/InternalCalculatorParser.java
+ org.xtext.calc.parser.antlr.internal.InternalCalculatorParser
+ org.xtext.calc.parser.antlr.internal.InternalCalculatorParser$DFA10
+ org.xtext.calc.parser.antlr.internal.InternalCalculatorParser$DFA17
+org/xtext/calc/serializer/CalculatorSyntacticSequencer.java
+ org.xtext.calc.serializer.CalculatorSyntacticSequencer
+org/xtext/calc/webCalc/util/WebCalcSwitch.java
+ org.xtext.calc.webCalc.util.WebCalcSwitch
+org/xtext/calc/webCalc/impl/StatementImpl.java
+ org.xtext.calc.webCalc.impl.StatementImpl
+org/xtext/calc/CalculatorStandaloneSetupGenerated.java
+ org.xtext.calc.CalculatorStandaloneSetupGenerated
+org/xtext/calc/webCalc/impl/CalculationImpl.java
+ org.xtext.calc.webCalc.impl.CalculationImpl

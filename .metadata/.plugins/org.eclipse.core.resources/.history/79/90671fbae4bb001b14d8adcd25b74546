@@ -1,0 +1,9 @@
+grammar org.xtext.calc.Calculator with org.eclipse.xtext.common.Terminals
+
+generate calculator "http://www.xtext.org/calc/Calculator"
+
+Model:
+	greetings+=Greeting*;
+	
+Greeting:
+	'Hello' name=ID '!';

@@ -1,0 +1,18 @@
+org/xtext/calc/ide/contentassist/antlr/CalculatorParser.java
+ org.xtext.calc.ide.contentassist.antlr.CalculatorParser
+ org.xtext.calc.ide.contentassist.antlr.CalculatorParser$NameMappings
+org/xtext/calc/ide/CalculatorIdeModule.java
+ org.xtext.calc.ide.CalculatorIdeModule
+org/xtext/calc/ide/contentassist/antlr/internal/InternalCalculatorLexer.java
+ org.xtext.calc.ide.contentassist.antlr.internal.InternalCalculatorLexer
+ org.xtext.calc.ide.contentassist.antlr.internal.InternalCalculatorLexer$DFA12
+org/xtext/calc/ide/contentassist/antlr/internal/InternalCalculatorParser.java
+ org.xtext.calc.ide.contentassist.antlr.internal.InternalCalculatorParser
+ org.xtext.calc.ide.contentassist.antlr.internal.InternalCalculatorParser$DFA13
+ org.xtext.calc.ide.contentassist.antlr.internal.InternalCalculatorParser$DFA15
+org/xtext/calc/ide/CalculatorIdeSetup.java
+ org.xtext.calc.ide.CalculatorIdeSetup
+org/xtext/calc/ide/AbstractCalculatorIdeModule.java
+ org.xtext.calc.ide.AbstractCalculatorIdeModule
+org/xtext/calc/ide/contentassist/antlr/PartialCalculatorContentAssistParser.java
+ org.xtext.calc.ide.contentassist.antlr.PartialCalculatorContentAssistParser

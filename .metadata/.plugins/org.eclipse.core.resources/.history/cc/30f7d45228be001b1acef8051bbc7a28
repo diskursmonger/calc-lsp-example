@@ -1,0 +1,11 @@
+bin.includes = org.xtext.calc.ide/,\
+               settings.gradle,\
+               org.xtext.calc/,\
+               gradlew.bat,\
+               gradlew,\
+               gradle/,\
+               build.gradle,\
+               .settings/,\
+               .project,\
+               .gradle/
+additional.bundles = org.eclipse.emf.mwe2.launch

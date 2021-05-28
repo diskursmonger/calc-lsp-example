@@ -1,0 +1,5 @@
+dependencies {
+	implementation project(':org.xtext.calc')
+	implementation "org.eclipse.xtext:org.eclipse.xtext.ide:${xtextVersion}"
+	implementation "org.eclipse.xtext:org.eclipse.xtext.xbase.ide:${xtextVersion}"
+}
